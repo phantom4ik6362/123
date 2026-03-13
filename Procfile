@@ -1,1 +1,1 @@
-web: npx @openclaw/cli gateway
+web: npx openclaw gateway
